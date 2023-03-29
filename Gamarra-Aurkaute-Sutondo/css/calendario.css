@@ -58,7 +58,7 @@ select, input{
     background-size: cover;
     opacity: 0.5;
 }
-#banner2, #banner3{
+#banner, #banner2, #banner3{
     display: none;
 }
 
@@ -85,7 +85,7 @@ footer{
         padding-right: 0%;
         opacity: 1;
     }
-    #banner2, #banner3{
+    #banner, #banner2, #banner3{
         display: inline;
     }
     #logos_principal img{
