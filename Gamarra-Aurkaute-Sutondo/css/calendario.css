@@ -71,8 +71,8 @@ div.derecha{
 img.logo_footer{
     margin-left: 20%;
 }
-footer{
-    background-color: rgb(212, 212, 212);
+footer, .card{
+    background-color: rgb(243, 243, 243);
 }
 
 @media (max-width: 992px) {
