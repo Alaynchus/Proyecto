@@ -74,8 +74,12 @@ img.logo_footer{
 footer, .card, #divListado{
     background-color: rgb(243, 243, 243);
 }
-#elaboracion p, #ingredientes p{
+#elaboracion p{
     font-weight: bold;
+}
+#infoNutri p{
+    margin: 0;
+    font-size: small;
 }
 #listadoIngredientes p{
    font-size: small;
