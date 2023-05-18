@@ -71,10 +71,27 @@ div.derecha{
 img.logo_footer{
     margin-left: 20%;
 }
-footer, .card{
+footer, .card, #divListado{
     background-color: rgb(243, 243, 243);
 }
+#elaboracion p, #ingredientes p{
+    font-weight: bold;
+}
+#listadoIngredientes p{
+   font-size: small;
+   font-weight: normal;
+}
+span{
+    
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 0;
+}
 
+hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 @media (max-width: 992px) {
     #plato{
        display: none;
